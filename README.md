@@ -1,4 +1,4 @@
-create .env field 
+create .env file with next fields 
 ```
 HOST = "HOST" 
 PORT = "PORT"
