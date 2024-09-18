@@ -7,7 +7,7 @@ USER_NAME = "user name"
 PASS = "password"
 ```
 
-to install scrip dependency run 
+to install script dependency run
 ```
 pip3 install -r requirements.txt
 ```
